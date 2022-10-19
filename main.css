@@ -1,0 +1,200 @@
+    
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    height:auto;
+  }
+  .flex-container {
+    display: flex;
+    background-color: palevioletred;
+    background-size:cover;
+    align-items:stretch;
+  }
+  .flex-container > div {
+    background-color: pink;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+      
+  .flex-container-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+    height:auto;
+  }
+  .flex-container-reverse {
+    display: flex;
+    background-color: palevioletred;
+    background-size:cover;
+    align-items:stretch;
+  }
+  .flex-container-reverse > div {
+    background-color: pink;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  .flex-container-reverse-row {
+    display: flex;
+    flex-direction: row-reverse;
+    height:auto;
+  }
+  .flex-container-reverse-row {
+    display: flex;
+    background-color: palevioletred;
+    background-size:cover;
+    align-items:stretch;
+  }
+  .flex-container-reverse-row > div {
+    background-color: pink;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  .flex-container-row {
+    display: flex;
+    flex-direction: row;
+    height:auto;
+  }
+  .flex-container-row {
+    display: flex;
+    background-color: palevioletred;
+    background-size:cover;
+    align-items:stretch;
+  }
+  .flex-container-row > div {
+    background-color: pink;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  .flex-container-wrap > div {
+    background-color: pink;
+    width: 100px;
+    margin: 10px; 
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  .flex-container-wrap {
+    display: flex;
+    background-color: palevioletred;
+    flex-wrap: wrap;
+    align-items:stretch;
+  }
+.flex-container-wrap {
+    display: flex;
+    height: 500px;
+    flex-wrap: wrap;
+    align-content:space-between;
+}
+.flex-container-nowrap > div {
+  background-color: pink;
+  width: 100px;
+  margin: 10px; 
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container-nowrap {
+  display: flex;
+  background-color: palevioletred;
+  flex-wrap: nowrap;
+  align-items:stretch;
+}
+.flex-container-nowrap {
+  display: flex;
+  height: 300px;
+  flex-wrap: nowrap;
+  align-content:space-between;
+}
+.flex-container-reverse-wrap > div {
+  background-color: pink;
+  width: 100px;
+  margin: 10px; 
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container-reverse-wrap {
+  display: flex;
+  background-color: palevioletred;
+  flex-wrap: wrap-reverse;
+  align-items:stretch;
+}
+.flex-container-reverse-wrap {
+  display: flex;
+  height: 300px;
+  flex-wrap: wrap-reverse;
+  align-content:space-between;
+}
+.flex-container-content > div {
+  background-color: pink;
+  width: 100px;
+  margin: 10px; 
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container-content {
+  display: flex;
+  background-color: palevioletred;
+  justify-content: center;
+  align-items:stretch;
+}
+.flex-container-content-start > div {
+  background-color: pink;
+  width: 100px;
+  margin: 10px; 
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container-content-start {
+  display: flex;
+  background-color: palevioletred;
+  justify-content: flex-start;
+  align-items:stretch;
+}
+.flex-container-content-end > div {
+  background-color: pink;
+  width: 100px;
+  margin: 10px; 
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container-content-end {
+  display: flex;
+  background-color: palevioletred;
+  justify-content: flex-end;
+  align-items:stretch;
+}
+.flex-container-content-space-around > div {
+  background-color: pink;
+  width: 100px;
+  margin: 10px; 
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container-content-space-around {
+  display: flex;
+  background-color: palevioletred;
+  justify-content: space-around;
+  align-items:stretch;
+}
+.flex-container-content-space-between > div {
+  background-color: pink;
+  width: 100px;
+  margin: 10px; 
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container-content-space-between {
+  display: flex;
+  background-color: palevioletred;
+  justify-content: space-between;
+  align-items:stretch;
+}

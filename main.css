@@ -6,7 +6,7 @@
   }
   .flex-container {
     display: flex;
-    background-color: blue;
+    background-color: palevioletred;
     background-size:cover;
     align-items:stretch;
   }
@@ -24,7 +24,7 @@
   }
   .flex-container-reverse {
     display: flex;
-    background-color: blue;
+    background-color: palevioletred;
     background-size:cover;
     align-items:stretch;
   }
@@ -41,7 +41,7 @@
   }
   .flex-container-reverse-row {
     display: flex;
-    background-color: blue;
+    background-color: palevioletred;
     background-size:cover;
     align-items:stretch;
   }
@@ -58,7 +58,7 @@
   }
   .flex-container-row {
     display: flex;
-    background-color: blue;
+    background-color: palevioletred;
     background-size:cover;
     align-items:stretch;
   }
@@ -78,7 +78,7 @@
   }
   .flex-container-wrap {
     display: flex;
-    background-color: blue;
+    background-color: palevioletred;
     flex-wrap: wrap;
     align-items:stretch;
   }
@@ -98,7 +98,7 @@
 }
 .flex-container-nowrap {
   display: flex;
-  background-color: blue;
+  background-color: palevioletred;
   flex-wrap: nowrap;
   align-items:stretch;
 }
@@ -118,7 +118,7 @@
 }
 .flex-container-reverse-wrap {
   display: flex;
-  background-color: blue;
+  background-color: palevioletred;
   flex-wrap: wrap-reverse;
   align-items:stretch;
 }
@@ -138,7 +138,7 @@
 }
 .flex-container-content {
   display: flex;
-  background-color: blue;
+  background-color: palevioletred;
   justify-content: center;
   align-items:stretch;
 }
@@ -152,7 +152,7 @@
 }
 .flex-container-content-start {
   display: flex;
-  background-color: blue;
+  background-color: palevioletred;
   justify-content: flex-start;
   align-items:stretch;
 }
@@ -166,7 +166,7 @@
 }
 .flex-container-content-end {
   display: flex;
-  background-color: blue;
+  background-color: palevioletred;
   justify-content: flex-end;
   align-items:stretch;
 }
@@ -180,7 +180,7 @@
 }
 .flex-container-content-space-around {
   display: flex;
-  background-color: blue;
+  background-color: palevioletred;
   justify-content: space-around;
   align-items:stretch;
 }
@@ -194,7 +194,7 @@
 }
 .flex-container-content-space-between {
   display: flex;
-  background-color: blue;
+  background-color: palevioletred;
   justify-content: space-between;
   align-items:stretch;
 }
